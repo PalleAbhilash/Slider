@@ -1,0 +1,28 @@
+*
+{
+    padding:0px;
+    margin:0px;
+    transition: all 0.5s;
+}
+#background
+{
+    width:100vw;
+    height:100vh;
+    background-image: url(./0.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.a{
+    font-size: 120px;
+    position: absolute;
+    top:45vh;
+    background-color: transparent;
+    border: none;
+    color: red;
+    text-shadow: 5px 5px 5px whitesmoke;
+    cursor: pointer;
+}
+#right
+{
+    right:10px;
+}
